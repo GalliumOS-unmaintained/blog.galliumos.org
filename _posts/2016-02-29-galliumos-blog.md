@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GalliumOS Blog"
-date:   2016-02-29 18:00:00 -0700
+date:   2016-02-29 19:10:00 -0700
 author: "ColtonDRG"
 ---
 Hello. Welcome to the GalliumOS blog. This is the place where we will post new updates, announcements, and news about GalliumOS.
