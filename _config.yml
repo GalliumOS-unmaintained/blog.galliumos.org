@@ -7,7 +7,7 @@
 
 # Site settings
 title: GalliumOS Blog
-email: hello@galliumos.org
+email: contact@galliumos.org
 description: The GalliumOS blog is where the GalliumOS team posts updates and news about the operating system, as well as other useful information we feel like our users should know.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.galliumos.org" # the base hostname & protocol for your site
